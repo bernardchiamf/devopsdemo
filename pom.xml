@@ -26,11 +26,11 @@
     <finalName>hiring</finalName>
   </build>
    <distributionManagement>
-<!--     <repository>
+    <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
       <url>http://54.255.242.207:8081/repository/maven-releases/</url>
-    </repository> -->
+    </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
       <name>maven-snapshots</name>
